@@ -1,5 +1,9 @@
 # IR protocol library
 
+## Notice
+
+NB: Moved to https://github.com/mongoose-os-libs/ir.
+
 ## Usage
 
 Either
